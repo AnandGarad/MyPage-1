@@ -1,0 +1,25 @@
+h1,h2,h3,h4,.navbar-brand{
+  font-family: 'Overpass', sans-serif;
+font-family: 'Roboto', sans-serif;
+letter-spacing: 1px;
+}
+nav{
+  background: linear-gradient(0.25turn, #a2bbc5, #cbc4d3, #c6e0ee);
+}
+.carousel-item img{
+  width: 100%;
+  height:100vh;
+}
+body{
+   background: linear-gradient(0.25turn, #a6d0e1, #beadd1, #b9c8d0);
+}
+footer{
+  background-color: rgb(129, 137, 143);
+}
+.socialbar{
+  background-color: cornflowerblue;
+  border-radius: 10px;
+}
+.card-background{
+  background-color: #d2e2e8;
+}
